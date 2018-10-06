@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: A road-book to old Chelsea
 url: http://www.gutenberg.org/ebooks/48003
